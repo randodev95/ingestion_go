@@ -1,1 +1,4 @@
-"This is an implementation of a golang microservice for user registration"
+"This is an implementation of a golang microservice for user registration
+The app registers users by generating a UUID for every new user entry 
+allows you to save the data on Mongo ,and provides endpoints to  update and delete users. 
+"
